@@ -1,0 +1,14 @@
+[
+  {
+    "TypeId": 1,
+    "name": "Fashion"
+  },
+  {
+    "TypeId": 2,
+    "name": "Foods"
+  },
+  {
+    "TypeId": 3,
+    "name": "Toy's"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Baju Styles",
+    "stock": 12,
+    "price": "150000",
+    "image": "https://miro.medium.com/max/1200/1*mk1-6aYaf_Bes1E3Imhc0A.jpeg",
+    "category": "Fashion",
+    "creatAdt": "12-02-2020",
+    "UserId": 1,
+    "TypeId": 1
+  },
+  {
+    "name": "Pakan Burung Puyuh",
+    "stock": 14,
+    "price": 140000,
+    "image": "https://miro.medium.com/max/1200/1*mk1-6aYaf_Bes1E3Imhc0A.jpeg",
+    "category": "Foods",
+    "creatAdt": "12-02-2020",
+    "UserId": 1,
+    "TypeId": 2
+  },
+  {
+    "name": "Mainan Anak dibawah Satu Tahun",
+    "stock": 13,
+    "price": 130000,
+    "image": "https://miro.medium.com/max/1200/1*mk1-6aYaf_Bes1E3Imhc0A.jpeg",
+    "category": "Toy's",
+    "creatAdt": "12-02-2020",
+    "UserId": 1,
+    "TypeId": 3
+  }
+]

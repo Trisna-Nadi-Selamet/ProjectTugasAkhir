@@ -1,0 +1,18 @@
+[
+  {
+    "email": "aaaaa@gmail.com",
+    "password": 12345,
+    "image": "https://miro.medium.com/max/1200/1*mk1-6aYaf_Bes1E3Imhc0A.jpeg"
+  },
+
+  {
+    "email": "bbbbb@gmail.com",
+    "password": 12345,
+    "image": "https://miro.medium.com/max/1200/1*mk1-6aYaf_Bes1E3Imhc0A.jpeg"
+  },
+  {
+    "email": "cccccc@gmail.com",
+    "password": 12345,
+    "image": "https://miro.medium.com/max/1200/1*mk1-6aYaf_Bes1E3Imhc0A.jpeg"
+  }
+]

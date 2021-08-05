@@ -1,0 +1,30 @@
+[
+  {
+    "title": "Shop Online Jaman Now",
+    "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+    "author": "trisna",
+    "tags": "tulis",
+    "status": "done",
+    "createAdt": "20-05-2020",
+    "UserId": 1
+  },
+
+  {
+    "title": "Baju Style Moderen",
+    "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+    "author": "trisna",
+    "tags": "Informasi",
+    "status": "done",
+    "createAdt": "20-07-2020",
+    "UserId": 1
+  },
+  {
+    "title": "Informasi saat ini trending",
+    "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+    "author": "trisna",
+    "tags": "tulis",
+    "status": "done",
+    "createAdt": "20-06-2020",
+    "UserId": 1
+  }
+]
